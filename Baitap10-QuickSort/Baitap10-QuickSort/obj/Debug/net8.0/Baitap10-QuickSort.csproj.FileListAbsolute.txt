@@ -1,0 +1,14 @@
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\Baitap10-QuickSort\Baitap10-QuickSort\bin\Debug\net8.0\Baitap10-QuickSort.exe
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\Baitap10-QuickSort\Baitap10-QuickSort\bin\Debug\net8.0\Baitap10-QuickSort.deps.json
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\Baitap10-QuickSort\Baitap10-QuickSort\bin\Debug\net8.0\Baitap10-QuickSort.runtimeconfig.json
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\Baitap10-QuickSort\Baitap10-QuickSort\bin\Debug\net8.0\Baitap10-QuickSort.dll
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\Baitap10-QuickSort\Baitap10-QuickSort\bin\Debug\net8.0\Baitap10-QuickSort.pdb
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\Baitap10-QuickSort\Baitap10-QuickSort\obj\Debug\net8.0\Baitap10-QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\Baitap10-QuickSort\Baitap10-QuickSort\obj\Debug\net8.0\Baitap10-QuickSort.AssemblyInfoInputs.cache
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\Baitap10-QuickSort\Baitap10-QuickSort\obj\Debug\net8.0\Baitap10-QuickSort.AssemblyInfo.cs
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\Baitap10-QuickSort\Baitap10-QuickSort\obj\Debug\net8.0\Baitap10-QuickSort.csproj.CoreCompileInputs.cache
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\Baitap10-QuickSort\Baitap10-QuickSort\obj\Debug\net8.0\Baitap10-QuickSort.dll
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\Baitap10-QuickSort\Baitap10-QuickSort\obj\Debug\net8.0\refint\Baitap10-QuickSort.dll
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\Baitap10-QuickSort\Baitap10-QuickSort\obj\Debug\net8.0\Baitap10-QuickSort.pdb
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\Baitap10-QuickSort\Baitap10-QuickSort\obj\Debug\net8.0\Baitap10-QuickSort.genruntimeconfig.cache
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\Baitap10-QuickSort\Baitap10-QuickSort\obj\Debug\net8.0\ref\Baitap10-QuickSort.dll

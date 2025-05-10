@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Baitap10-QuickSort/1.0.0": {
+        "runtime": {
+          "Baitap10-QuickSort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Baitap10-QuickSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
